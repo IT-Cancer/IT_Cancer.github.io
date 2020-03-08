@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://IT_Cancer.github.io</id>
+    <id>https://it-cancer.github.io/IT_Cancer.github.io/</id>
     <title>Gridea</title>
-    <updated>2020-03-08T12:05:35.126Z</updated>
+    <updated>2020-03-08T12:07:03.612Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://IT_Cancer.github.io"/>
-    <link rel="self" href="https://IT_Cancer.github.io/atom.xml"/>
+    <link rel="alternate" href="https://it-cancer.github.io/IT_Cancer.github.io/"/>
+    <link rel="self" href="https://it-cancer.github.io/IT_Cancer.github.io/atom.xml"/>
     <subtitle>温故而知新</subtitle>
-    <logo>https://IT_Cancer.github.io/images/avatar.png</logo>
-    <icon>https://IT_Cancer.github.io/favicon.ico</icon>
+    <logo>https://it-cancer.github.io/IT_Cancer.github.io/images/avatar.png</logo>
+    <icon>https://it-cancer.github.io/IT_Cancer.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Gridea</rights>
     <entry>
         <title type="html"><![CDATA[3333]]></title>
-        <id>https://IT_Cancer.github.io/post/3333/</id>
-        <link href="https://IT_Cancer.github.io/post/3333/">
+        <id>https://it-cancer.github.io/IT_Cancer.github.io/post/3333/</id>
+        <link href="https://it-cancer.github.io/IT_Cancer.github.io/post/3333/">
         </link>
         <updated>2020-03-08T12:04:13.000Z</updated>
         <content type="html"><![CDATA[<p>3333</p>
@@ -21,8 +21,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://IT_Cancer.github.io/post/hello-gridea/</id>
-        <link href="https://IT_Cancer.github.io/post/hello-gridea/">
+        <id>https://it-cancer.github.io/IT_Cancer.github.io/post/hello-gridea/</id>
+        <link href="https://it-cancer.github.io/IT_Cancer.github.io/post/hello-gridea/">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
